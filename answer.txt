@@ -1,0 +1,7 @@
+{
+  "numero_casas": 2,
+  "token": "9afe41d99aa1aa52b0cbde16e57dd32f6d78f0f5",
+  "cifrado": "hqewu qp yja kpuvgcf qh yjcv kp aqwt eqfg yknn ocmg aqw c dgvvgt fgxgnqrgt lqtfk dqiikcpq",
+  "decifrado": "focus on why instead of what in your code will make you a better developer jordi boggiano",
+  "resumo_criptografico": "e192ab7a00eea9af5aa183ada36542d9fe7f6a79"
+}
